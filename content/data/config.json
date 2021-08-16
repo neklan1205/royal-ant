@@ -32,7 +32,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Sammy<a href=\"https://app.stackbit.com/create?theme=ampersand&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>.",
+        "content": "&copy; Sammy",
         "has_social": true,
         "social_links": [
             {
