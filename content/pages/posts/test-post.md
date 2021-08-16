@@ -1,6 +1,6 @@
 ---
 title: Test Post
-subtitle: it the post seen on the homepage?
+subtitle: is the post seen on the homepage?
 date: '2021-08-16'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
