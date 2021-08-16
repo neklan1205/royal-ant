@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Test Post
 subtitle: lorem-ipsum
 date: '2021-08-16'
 thumb_img_alt: lorem-ipsum
