@@ -15,7 +15,4 @@ layout: post
 ---
 ## Lorem ipsum
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+That't the only reason for this post. (Which is being edited within stackbit)
