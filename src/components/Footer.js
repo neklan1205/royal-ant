@@ -23,6 +23,7 @@ export default class Footer extends React.Component {
                     {_.map(_.get(this.props, 'data.config.footer.social_links', null), (action, action_idx) => (
                       <ActionLink key={action_idx} {...this.props} action={action} />
                     ))}
+                    <a href="https://www.digitalocean.com/?refcode=b01f5b38562f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
                   </div>
                   )}
                 </div>
