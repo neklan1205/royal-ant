@@ -8,7 +8,8 @@ intro_content: >
   yourself for those who are interested.
 
 
-  *Note, that the edit tool does not allow direct manipulation of the text.*
+  *Note, that the edit tool does not allow direct manipulation of the text.
+  Probably because the text is stored as markdown.*
 intro_actions:
   - label: Learn More
     url: /about
